@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://store.vantacheats.to/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://store.vantacheats.to/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://store.vantacheats.to/collections/frontpage.atom"/>
+  <title>Vanta Cheats</title>
+  <updated>2024-06-19T23:27:39+02:00</updated>
+  <author>
+    <name>Vanta Cheats</name>
+  </author>
+  <entry>
+    <id>https://store.vantacheats.to/products/8359159431415</id>
+    <published>2024-06-19T23:27:39+02:00</published>
+    <updated>2024-06-19T23:27:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/vanta-unreal-pack"/>
+    <title>VANTA FORTNITE UNREAL PACK</title>
+    <s:type></s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/Unbenannt_5.png?v=1718832461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.99 - 339.99
+            <a href="https://store.vantacheats.to/products/vanta-unreal-pack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Includes </span><strong data-mce-fragment="1">VANTA FORTNITE LIFETIME</strong><span data-mce-fragment="1"> &amp; </span><strong data-mce-fragment="1">VANTA CUP SPOOFER LIFETIME</strong><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159431415</id>
+      <title>Solo</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159431415</id>
+      <title>Duo (For 2x People)</title>
+      <s:price currency="USD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159431415</id>
+      <title>Trio (For 3x People)</title>
+      <s:price currency="USD">339.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.vantacheats.to/products/8359159398647</id>
+    <published>2024-06-19T23:27:37+02:00</published>
+    <updated>2024-06-19T23:27:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/vanta-starterpack"/>
+    <title>VANTA FORTNITE STARTERPACK</title>
+    <s:type></s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/Unbenannt_6.png?v=1718832458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99 - 34.99
+            <a href="https://store.vantacheats.to/products/vanta-starterpack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Includes <strong>VANTA FORTNITE 3 DAYS</strong> &amp; <strong>VANTA CUP SPOOFER ONE TIME</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159398647</id>
+      <title>Solo</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159398647</id>
+      <title>Duo (For 2x People)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159398647</id>
+      <title>Trio (For 3x People)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

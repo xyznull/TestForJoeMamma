@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://store.vantacheats.to/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://store.vantacheats.to/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://store.vantacheats.to/collections/all.atom"/>
+  <title>Vanta Cheats</title>
+  <updated>2024-06-26T07:36:20+02:00</updated>
+  <author>
+    <name>Vanta Cheats</name>
+  </author>
+  <entry>
+    <id>https://store.vantacheats.to/products/8365592084727</id>
+    <published>2024-06-26T07:36:20+02:00</published>
+    <updated>2024-06-26T07:36:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/vanta-rust"/>
+    <title>VANTA RUST (SOON..)</title>
+    <s:type>Computer-Software</s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/VantaRust.png?v=1719366334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong>Computer-Software<br>
+        <strong>Price: </strong>
+            9.90 - 109.90
+            <a href="https://store.vantacheats.to/products/vanta-rust">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+        .spec-box {
+            font-family: Arial, sans-serif;
+            background-color: #1f1f1f;
+            border: 1px solid #333;
+            width: 90%;
+            max-width: 600px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            border-radius: 2px;
+            color: #f4f4f4;
+        }
+        .spec-box h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #f4f4f4;
+        }
+        .spec-entry {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #444;
+        }
+        .spec-entry:last-child {
+            border-bottom: none;
+        }
+        .spec-entry span {
+            font-weight: bold;
+        }
+    </style>
+<div class="spec-box">
+<div class="spec-entry">
+<span>Supported OS:</span> <span>Windows 10, Windows 11</span>
+</div>
+<div class="spec-entry">
+<span>Supported CPU:</span> <span>All (Intel, AMD, etc.)</span>
+</div>
+<div class="spec-entry">
+<span>Streamproof:</span> <span>Yes</span>
+</div>
+<div class="spec-entry">
+<span>Controller Supported:</span> <span>Yes</span>
+</div>
+<div class="spec-entry"><span>Vanta Rust outperforms all competitors with comprehensive security measures, including personalized loaders for each customer, and is fully auto-updated! How does Vanta ensure you won't get banned if someone abuses the cheat excessively? Each customer receives a loader uniquely tied to their license key, making every loader distinct. If a user engages in rage cheating and crosses the line, Rust will only detect their specific loader, leaving everyone else unaffected. If you get banned due to rage cheating, it's solely because your loader was detected—your responsibility.</span></div>
+</div>
+<style>
+       @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    
+       @keyframes fadeIn {
+         from {
+           opacity: 0;
+         }
+    
+         to {
+           opacity: 1;
+         }
+       }
+    
+       @keyframes fadeOut {
+         from {
+           opacity: 1;
+         }
+    
+         to {
+           opacity: 0;
+         }
+       }
+    
+       @keyframes lightFlash {
+         0% {
+           background-position: -200%;
+         }
+    
+         100% {
+           background-position: 200%;
+         }
+       }
+    
+       @keyframes glow {
+    
+         0%,
+         100% {
+           box-shadow: 0 0 10px #f22fdc;
+         }
+    
+         50% {
+           box-shadow: 0 0 20px #f22fdc;
+         }
+       }
+    
+       #previewButton {
+         padding: 15px 30px;
+         font-size: 18px;
+         cursor: pointer;
+         background-color: #f22fdc;
+         color: white;
+         border: 2px solid black;
+         position: relative;
+         overflow: hidden;
+         border: none;
+         /* Remove border */
+         background-image: linear-gradient(120deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.5) 100%);
+         background-size: 200% auto;
+         transition: background 0.5s, transform 0.2s;
+         animation: lightFlash 3s linear infinite, glow 2s ease-in-out infinite;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         outline: none;
+       }
+    
+       #overlay {
+         display: none;
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         height: 100%;
+         background: rgba(0, 0, 0, 0.8);
+         justify-content: center;
+         align-items: center;
+         z-index: 1000;
+         animation: fadeIn 0.5s forwards;
+         overflow: auto;
+       }
+    
+       .closeButton {
+         position: absolute;
+         top: 20px;
+         right: 20px;
+         background-color: #ff4d4d;
+         color: white;
+         border: none;
+         width: 30px;
+         height: 30px;
+         text-align: center;
+         font-size: 16px;
+         cursor: pointer;
+         z-index: 1001;
+         outline: none;
+       }
+    
+       #iframeContainer {
+         position: relative;
+         width: 80%;
+         height: 80%;
+         box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+         display: flex;
+         justify-content: center;
+         align-items: center;
+       }
+    
+       iframe {
+         width: 100%;
+         height: 100%;
+         border: none;
+       }
+     </style>
+<div class="spec-box">
+<div class="spec-entry">
+<span><button id="previewButton">SHOW CHEAT PREVIEW</button></span>
+<div id="overlay">
+<button class="closeButton" onclick="closePreview()">X</button>
+<div id="iframeContainer"><iframe src="https://vantacheats.to/webmenu/fortnite/preview.html" frameborder="0"></iframe></div>
+</div>
+<script>
+   document.getElementById('previewButton').addEventListener('click', function() {
+     const overlay = document.getElementById('overlay');
+     overlay.style.display = 'flex';
+   });
+   function closePreview() {
+     const overlay = document.getElementById('overlay');
+     overlay.classList.add('fadeOut');
+     setTimeout(() => {
+       overlay.style.display = 'none';
+       overlay.classList.remove('fadeOut');
+     }, 500);
+   }
+ </script>
+</div>
+</div>
+<p><span data-mce-fragment="1"><br><strong>Upon completing your payment, your license key and setup guide, along with access to our customer support server, will be automatically sent to your email.</strong></span><strong><span data-mce-fragment="1"></span></strong></p>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<strong><span data-mce-fragment="1">If the product does not work as promised, customers are eligible for a refund. Please head over to our discord server to initiate a refund</span><span data-mce-fragment="1">.</span></strong><br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blooprint</s:tag>
+    <s:tag>ecoraiding</s:tag>
+    <s:tag>gaming</s:tag>
+    <s:tag>rust</s:tag>
+    <s:tag>rust aimbot</s:tag>
+    <s:tag>rust base build</s:tag>
+    <s:tag>rust best start ever</s:tag>
+    <s:tag>rust cheater</s:tag>
+    <s:tag>rust cheats</s:tag>
+    <s:tag>rust cheats undetected</s:tag>
+    <s:tag>rust clans</s:tag>
+    <s:tag>rust compound</s:tag>
+    <s:tag>rust ecoraid</s:tag>
+    <s:tag>rust funny moments</s:tag>
+    <s:tag>rust gameplay</s:tag>
+    <s:tag>rust hacks</s:tag>
+    <s:tag>rust huge loot</s:tag>
+    <s:tag>rust jackpot raid</s:tag>
+    <s:tag>rust movie</s:tag>
+    <s:tag>rust pvp</s:tag>
+    <s:tag>rust pvp highlights</s:tag>
+    <s:tag>rust raids</s:tag>
+    <s:tag>rust roleplayer</s:tag>
+    <s:tag>rust solo</s:tag>
+    <s:tag>rust solo pvp</s:tag>
+    <s:tag>rust solo series</s:tag>
+    <s:tag>rust solo survival</s:tag>
+    <s:tag>rust survival</s:tag>
+    <s:tag>rust treasure</s:tag>
+    <s:tag>rust undetected cheats</s:tag>
+    <s:tag>rust wall hack</s:tag>
+    <s:tag>solo survival</s:tag>
+    <s:tag>survival games</s:tag>
+    <s:tag>wally1k</s:tag>
+    <s:tag>wally1k rust</s:tag>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8365592084727</id>
+      <title>3 Days</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8365592084727</id>
+      <title>1 Week</title>
+      <s:price currency="USD">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8365592084727</id>
+      <title>1 Month</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8365592084727</id>
+      <title>Lifetime (Comes with Extras!)</title>
+      <s:price currency="USD">109.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.vantacheats.to/products/8359176667383</id>
+    <published>2024-06-20T00:27:03+02:00</published>
+    <updated>2024-06-20T00:27:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/vanta-fortnite"/>
+    <title>VANTA FORTNITE PUBLIC</title>
+    <s:type>Computer-Software</s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/Fortnite_4f38971b-0848-4594-9f25-fad1734e1786.png?v=1718840340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong>Computer-Software<br>
+        <strong>Price: </strong>
+            9.90 - 109.90
+            <a href="https://store.vantacheats.to/products/vanta-fortnite">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+        .spec-box {
+            font-family: Arial, sans-serif;
+            background-color: #1f1f1f;
+            border: 1px solid #333;
+            width: 90%;
+            max-width: 600px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            border-radius: 2px;
+            color: #f4f4f4;
+        }
+        .spec-box h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #f4f4f4;
+        }
+        .spec-entry {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #444;
+        }
+        .spec-entry:last-child {
+            border-bottom: none;
+        }
+        .spec-entry span {
+            font-weight: bold;
+        }
+    </style>
+<div class="spec-box">
+<div class="spec-entry">
+<span>Supported OS:</span> <span>Windows 10, Windows 11</span>
+</div>
+<div class="spec-entry">
+<span>Supported CPU:</span> <span>All (Intel, AMD, etc.)</span>
+</div>
+<div class="spec-entry">
+<span>Streamproof:</span> <span>Yes</span>
+</div>
+<div class="spec-entry">
+<span>Controller Supported:</span> <span>Yes</span>
+</div>
+<div class="spec-entry"><span>Vanta Fortnite outperforms all competitors with comprehensive security measures, including personalized loaders for each customer! How does Vanta ensure you won't get banned if someone abuses the cheat excessively? Each customer receives a loader uniquely tied to their license key, making every loader distinct. If a user engages in rage cheating and crosses the line, Fortnite will only detect their specific loader, leaving everyone else unaffected. If you get banned due to rage cheating, it's solely because your loader was detected—your responsibility.</span></div>
+</div>
+<style>
+       @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    
+       @keyframes fadeIn {
+         from {
+           opacity: 0;
+         }
+    
+         to {
+           opacity: 1;
+         }
+       }
+    
+       @keyframes fadeOut {
+         from {
+           opacity: 1;
+         }
+    
+         to {
+           opacity: 0;
+         }
+       }
+    
+       @keyframes lightFlash {
+         0% {
+           background-position: -200%;
+         }
+    
+         100% {
+           background-position: 200%;
+         }
+       }
+    
+       @keyframes glow {
+    
+         0%,
+         100% {
+           box-shadow: 0 0 10px #f22fdc;
+         }
+    
+         50% {
+           box-shadow: 0 0 20px #f22fdc;
+         }
+       }
+    
+       #previewButton {
+         padding: 15px 30px;
+         font-size: 18px;
+         cursor: pointer;
+         background-color: #f22fdc;
+         color: white;
+         border: 2px solid black;
+         position: relative;
+         overflow: hidden;
+         border: none;
+         /* Remove border */
+         background-image: linear-gradient(120deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.5) 100%);
+         background-size: 200% auto;
+         transition: background 0.5s, transform 0.2s;
+         animation: lightFlash 3s linear infinite, glow 2s ease-in-out infinite;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         outline: none;
+       }
+    
+       #overlay {
+         display: none;
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         height: 100%;
+         background: rgba(0, 0, 0, 0.8);
+         justify-content: center;
+         align-items: center;
+         z-index: 1000;
+         animation: fadeIn 0.5s forwards;
+         overflow: auto;
+       }
+    
+       .closeButton {
+         position: absolute;
+         top: 20px;
+         right: 20px;
+         background-color: #ff4d4d;
+         color: white;
+         border: none;
+         width: 30px;
+         height: 30px;
+         text-align: center;
+         font-size: 16px;
+         cursor: pointer;
+         z-index: 1001;
+         outline: none;
+       }
+    
+       #iframeContainer {
+         position: relative;
+         width: 80%;
+         height: 80%;
+         box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+         display: flex;
+         justify-content: center;
+         align-items: center;
+       }
+    
+       iframe {
+         width: 100%;
+         height: 100%;
+         border: none;
+       }
+     </style>
+<div class="spec-box">
+<div class="spec-entry">
+<span><button id="previewButton">SHOW CHEAT PREVIEW</button></span>
+<div id="overlay">
+<button class="closeButton" onclick="closePreview()">X</button>
+<div id="iframeContainer"><iframe src="https://vantacheats.to/webmenu/fortnite/preview.html" frameborder="0"></iframe></div>
+</div>
+<script>
+   document.getElementById('previewButton').addEventListener('click', function() {
+     const overlay = document.getElementById('overlay');
+     overlay.style.display = 'flex';
+   });
+   function closePreview() {
+     const overlay = document.getElementById('overlay');
+     overlay.classList.add('fadeOut');
+     setTimeout(() => {
+       overlay.style.display = 'none';
+       overlay.classList.remove('fadeOut');
+     }, 500);
+   }
+ </script>
+</div>
+</div>
+<p><span data-mce-fragment="1"><br>Upon completing your payment, your license key and setup guide, along with access to our customer support server, will be automatically sent to your email.</span><span data-mce-fragment="1"></span></p>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<span data-mce-fragment="1">If the product does not work as promised, customers are eligible for a refund. Please head over to our discord server to initiate a refund</span><span data-mce-fragment="1">.</span><br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best fortnite cheat</s:tag>
+    <s:tag>best fortnite cheat 2023</s:tag>
+    <s:tag>chapter 5</s:tag>
+    <s:tag>cheat fortnite</s:tag>
+    <s:tag>client</s:tag>
+    <s:tag>fortnite</s:tag>
+    <s:tag>Fortnite aimbot</s:tag>
+    <s:tag>fortnite cheat</s:tag>
+    <s:tag>fortnite cheat 2023</s:tag>
+    <s:tag>fortnite cheat 2024</s:tag>
+    <s:tag>fortnite cheat download</s:tag>
+    <s:tag>fortnite cheat free</s:tag>
+    <s:tag>fortnite cheat tutorial</s:tag>
+    <s:tag>fortnite cheaters</s:tag>
+    <s:tag>fortnite cheaters caught</s:tag>
+    <s:tag>Fortnite cheats</s:tag>
+    <s:tag>Fortnite esp</s:tag>
+    <s:tag>fortnite free cheat</s:tag>
+    <s:tag>fortnite hack</s:tag>
+    <s:tag>Fortnite hacks</s:tag>
+    <s:tag>fortnite legit cheat</s:tag>
+    <s:tag>fortnite legit cheating</s:tag>
+    <s:tag>fortnite softaim</s:tag>
+    <s:tag>fortnite softaim download</s:tag>
+    <s:tag>Fortnite wallhack</s:tag>
+    <s:tag>hack</s:tag>
+    <s:tag>undetected fortnite cheat</s:tag>
+    <s:tag>Vanta</s:tag>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359176667383</id>
+      <title>3 Days</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359176667383</id>
+      <title>1 Week</title>
+      <s:price currency="USD">19.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359176667383</id>
+      <title>1 Month</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359176667383</id>
+      <title>Lifetime (Comes with Extras!)</title>
+      <s:price currency="USD">109.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.vantacheats.to/products/8359159464183</id>
+    <published>2024-06-19T23:27:42+02:00</published>
+    <updated>2024-06-19T23:27:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/vanta-fortnite-slotted"/>
+    <title>VANTA FORTNITE SLOTTED</title>
+    <s:type></s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/vantapanelsslotted.png?v=1718832465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.90 - 749.90
+            <a href="https://store.vantacheats.to/products/vanta-fortnite-slotted">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+        .spec-box {
+            font-family: Arial, sans-serif;
+            background-color: #1f1f1f;
+            border: 1px solid #333;
+            width: 90%;
+            max-width: 600px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            border-radius: 2px;
+            color: #f4f4f4;
+        }
+        .spec-box h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #f4f4f4;
+        }
+        .spec-entry {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #444;
+        }
+        .spec-entry:last-child {
+            border-bottom: none;
+        }
+        .spec-entry span {
+            font-weight: bold;
+        }
+    </style>
+<div class="spec-box">
+<div class="spec-entry">
+<span>Supported OS:</span> <span>Windows 10, Windows 11</span>
+</div>
+<div class="spec-entry">
+<span>Supported CPU:</span> <span>All (Intel, AMD, etc.)</span>
+</div>
+<div class="spec-entry">
+<span>Streamproof:</span> <span>Yes</span>
+</div>
+<div class="spec-entry">
+<span>Controller Supported:</span> <span>Yes</span>
+</div>
+<div class="spec-entry"><span>The infinity gauntlet is back at its glance.</span></div>
+</div>
+<style>
+       @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    
+       @keyframes fadeIn {
+         from {
+           opacity: 0;
+         }
+    
+         to {
+           opacity: 1;
+         }
+       }
+    
+       @keyframes fadeOut {
+         from {
+           opacity: 1;
+         }
+    
+         to {
+           opacity: 0;
+         }
+       }
+    
+       @keyframes lightFlash {
+         0% {
+           background-position: -200%;
+         }
+    
+         100% {
+           background-position: 200%;
+         }
+       }
+    
+       @keyframes glow {
+    
+         0%,
+         100% {
+           box-shadow: 0 0 10px #f22fdc;
+         }
+    
+         50% {
+           box-shadow: 0 0 20px #f22fdc;
+         }
+       }
+    
+       #previewButton {
+         padding: 15px 30px;
+         font-size: 18px;
+         cursor: pointer;
+         background-color: #f22fdc;
+         color: white;
+         border: 2px solid black;
+         position: relative;
+         overflow: hidden;
+         border: none;
+         /* Remove border */
+         background-image: linear-gradient(120deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.5) 100%);
+         background-size: 200% auto;
+         transition: background 0.5s, transform 0.2s;
+         animation: lightFlash 3s linear infinite, glow 2s ease-in-out infinite;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         outline: none;
+       }
+    
+       #overlay {
+         display: none;
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         height: 100%;
+         background: rgba(255, 255, 255, 1.0);
+         justify-content: center;
+         align-items: center;
+         z-index: 1000;
+         animation: fadeIn 0.5s forwards;
+         overflow: auto;
+       }
+    
+       .closeButton {
+         position: absolute;
+         top: 20px;
+         right: 20px;
+         background-color: #ff4d4d;
+         color: white;
+         border: none;
+         width: 30px;
+         height: 30px;
+         text-align: center;
+         font-size: 16px;
+         cursor: pointer;
+         z-index: 1001;
+         outline: none;
+       }
+    
+       #iframeContainer {
+         position: relative;
+         width: 80%;
+         height: 80%;
+         box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+         display: flex;
+         justify-content: center;
+         align-items: center;
+       }
+    
+       iframe {
+         width: 100%;
+         height: 100%;
+         border: none;
+       }
+     </style>
+<div class="spec-box">
+<div class="spec-entry">
+<span><button id="previewButton">SHOW CHEAT PREVIEW</button></span>
+<div id="overlay">
+<button class="closeButton" onclick="closePreview()">X</button>
+<div id="iframeContainer"><iframe src="https://vantacheats.to/webmenu/fortnite/slotted.html" frameborder="0"></iframe></div>
+</div>
+<script>
+   document.getElementById('previewButton').addEventListener('click', function() {
+     const overlay = document.getElementById('overlay');
+     overlay.style.display = 'flex';
+   });
+   function closePreview() {
+     const overlay = document.getElementById('overlay');
+     overlay.classList.add('fadeOut');
+     setTimeout(() => {
+       overlay.style.display = 'none';
+       overlay.classList.remove('fadeOut');
+     }, 500);
+   }
+ </script>
+</div>
+</div>
+<p><span data-mce-fragment="1"><br>Upon completing your payment, your license key and setup guide, along with access to our customer support server, will be automatically sent to your email.</span><span data-mce-fragment="1"></span></p>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<span data-mce-fragment="1">If the product does not work as promised, customers are eligible for a refund. Please head over to our discord server to initiate a refund</span><span data-mce-fragment="1">.</span><br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159464183</id>
+      <title>1 Month Base</title>
+      <s:price currency="USD">149.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159464183</id>
+      <title>Lifetime Base</title>
+      <s:price currency="USD">749.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.vantacheats.to/products/8359159431415</id>
+    <published>2024-06-19T23:27:39+02:00</published>
+    <updated>2024-06-19T23:27:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/vanta-unreal-pack"/>
+    <title>VANTA FORTNITE UNREAL PACK</title>
+    <s:type></s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/Unbenannt_5.png?v=1718832461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.99 - 339.99
+            <a href="https://store.vantacheats.to/products/vanta-unreal-pack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Includes </span><strong data-mce-fragment="1">VANTA FORTNITE LIFETIME</strong><span data-mce-fragment="1"> &amp; </span><strong data-mce-fragment="1">VANTA CUP SPOOFER LIFETIME</strong><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159431415</id>
+      <title>Solo</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159431415</id>
+      <title>Duo (For 2x People)</title>
+      <s:price currency="USD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159431415</id>
+      <title>Trio (For 3x People)</title>
+      <s:price currency="USD">339.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.vantacheats.to/products/8359159398647</id>
+    <published>2024-06-19T23:27:37+02:00</published>
+    <updated>2024-06-19T23:27:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/vanta-starterpack"/>
+    <title>VANTA FORTNITE STARTERPACK</title>
+    <s:type></s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/Unbenannt_6.png?v=1718832458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99 - 34.99
+            <a href="https://store.vantacheats.to/products/vanta-starterpack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Includes <strong>VANTA FORTNITE 3 DAYS</strong> &amp; <strong>VANTA CUP SPOOFER ONE TIME</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159398647</id>
+      <title>Solo</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159398647</id>
+      <title>Duo (For 2x People)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159398647</id>
+      <title>Trio (For 3x People)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.vantacheats.to/products/8359159365879</id>
+    <published>2024-06-19T23:27:32+02:00</published>
+    <updated>2024-06-19T23:27:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.vantacheats.to/products/hwid-spoofer-fortnite"/>
+    <title>VANTA HWID SPOOFER</title>
+    <s:type></s:type>
+    <s:vendor>VANTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/2153/8295/files/Spoofer_f501b369-a22b-47fe-b619-f021b357a5e2.png?v=1719413775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANTA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 39.99
+            <a href="https://store.vantacheats.to/products/hwid-spoofer-fortnite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+        .spec-box {
+            font-family: Arial, sans-serif;
+            background-color: #1f1f1f;
+            border: 1px solid #333;
+            width: 90%;
+            max-width: 600px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            border-radius: 2px;
+            color: #f4f4f4;
+        }
+        .spec-box h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #f4f4f4;
+        }
+        .spec-entry {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #444;
+        }
+        .spec-entry:last-child {
+            border-bottom: none;
+        }
+        .spec-entry span {
+            font-weight: bold;
+        }
+    </style>
+<div class="spec-box">
+<div class="spec-entry">
+<span>Supported OS:</span> <span>Windows 10, Windows 11</span>
+</div>
+<div class="spec-entry">
+<span>Supported CPU:</span> <span>All (Intel, AMD, etc.)</span>
+</div>
+<div class="spec-entry">
+<span>Unsupported Motherboards:</span> <span>Dell, HP, Newer Asus.</span>
+</div>
+<div class="spec-entry"><span>Vanta HWID Spoofer is the best solution to make sure your computer is ready for another cheating session!</span></div>
+</div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span data-mce-fragment="1"><br></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<p><strong><span data-mce-fragment="1">Upon completing your payment, your license key and setup guide, along with access to our customer support server, will be automatically sent to your email.</span><span data-mce-fragment="1"></span></strong></p>
+<div style="text-align: left;" data-mce-style="text-align: left;"><strong><span data-mce-fragment="1">If the product does not work as promised, customers are eligible for a refund. Please head over to our discord server to initiate a refund</span><span data-mce-fragment="1">.</span></strong></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apex legends hwid spoofer</s:tag>
+    <s:tag>best free hwid spoofer</s:tag>
+    <s:tag>best free spoofer</s:tag>
+    <s:tag>best hwid spoofer</s:tag>
+    <s:tag>best spoofer</s:tag>
+    <s:tag>fortnite</s:tag>
+    <s:tag>fortnite spoofer</s:tag>
+    <s:tag>free fortnite spoofer</s:tag>
+    <s:tag>free hwid spoofer</s:tag>
+    <s:tag>free hwid spoofer 2021</s:tag>
+    <s:tag>free spoofer</s:tag>
+    <s:tag>hardware id spoofer</s:tag>
+    <s:tag>hardware spoofer</s:tag>
+    <s:tag>how to change hwid</s:tag>
+    <s:tag>hw id spoofer</s:tag>
+    <s:tag>hwid</s:tag>
+    <s:tag>hwid changer</s:tag>
+    <s:tag>hwid meaning</s:tag>
+    <s:tag>hwid spoof</s:tag>
+    <s:tag>hwid spoofer</s:tag>
+    <s:tag>hwid spoofer apex</s:tag>
+    <s:tag>hwid spoofer cod warzone</s:tag>
+    <s:tag>hwid spoofer fortnite</s:tag>
+    <s:tag>hwid spoofer free</s:tag>
+    <s:tag>hwid spoofer valorant</s:tag>
+    <s:tag>hwid spoofer warzone</s:tag>
+    <s:tag>hwidspoofer</s:tag>
+    <s:tag>hwidspoofer.com</s:tag>
+    <s:tag>rust hwid spoofer</s:tag>
+    <s:tag>spoof hwid</s:tag>
+    <s:tag>spoofer</s:tag>
+    <s:tag>spoofer all games</s:tag>
+    <s:tag>spoofer hwid</s:tag>
+    <s:tag>spoofer meaning</s:tag>
+    <s:tag>spoofer warzone</s:tag>
+    <s:tag>spoofers</s:tag>
+    <s:tag>spoofing hardware id</s:tag>
+    <s:tag>spoofing hwid</s:tag>
+    <s:tag>the spoofer.com</s:tag>
+    <s:tag>unban</s:tag>
+    <s:tag>undetected hwid spoofer</s:tag>
+    <s:tag>val hwid spoofe</s:tag>
+    <s:tag>valorant hwid spoofer</s:tag>
+    <s:tag>valorant spoofer</s:tag>
+    <s:tag>warzone</s:tag>
+    <s:tag>warzone spoofer</s:tag>
+    <s:tag>what is hwid</s:tag>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159365879</id>
+      <title>One Time</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.vantacheats.to/products/8359159365879</id>
+      <title>Lifetime</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
